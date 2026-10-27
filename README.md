@@ -1,116 +1,109 @@
-# Café Luuma — Local Business Website
+# Project 3 — Café Luuma Website
 
-A responsive website proposal for Café Luuma in Mavelikara, Kerala, created for the Local Business Website & Live Pitch project.
+A responsive café website concept created for Café Luuma,
+Mavelikara, Kerala.
 
-> This is an independent student project, not the café’s official website. Owner approval is pending.
+The website presents an expanded food menu, sample prices,
+business information, and interactive demo features through
+a warm, readable design.
 
-## Technologies Used
+This is an independent student project and is not the
+official or owner-approved Café Luuma website.
 
-- HTML5
-- CSS3
-- JavaScript
-- Google Fonts
+## Live Project
+
+👉 [Open the Café Luuma Website](https://cafe-luuma-mavelikara-demo.idealtulip34.chatgpt.site)
+
+👉 [Explore the Food Menu](https://cafe-luuma-mavelikara-demo.idealtulip34.chatgpt.site/#menu)
+
 
 ## Features
 
-- Responsive layout with a warm, light theme
-- Searchable menu highlights
-- Menu category filters
-- Links to Swiggy and Zomato listings
-- Click-to-call contact number
-- Google Maps directions search
-- Instagram link
-- Visit-note planner with a copy option
-- Accessible navigation and keyboard focus styles
+### Food and Drinks Menu
+- 24 food and drink items with sample prices in rupees.
+- Burgers, fries, sandwiches, and pasta.
+- Steamed and fried momos.
+- Coffee, shakes, and coolers.
+- Fruit salad, brownies, and ice cream.
+- Search items by name or description.
+- Filter items by menu category.
 
-## How the Website Helps the Business
+### Say Hello — Demo Contact Form
+- Bright navigation button that opens a contact form.
+- Name, Email, and Message fields.
+- Required-field and email-format validation.
+- Demo confirmation after a valid submission.
+- No messages are sent and no personal details are saved.
 
-The website brings the café’s menu highlights, contact information, location, and ordering links into one place.
+### Visit Planner
+- Select a preferred date and time.
+- Enter the number of people in your group.
+- Generate and copy a visit note.
+- Call the café to confirm availability.
 
-It can help customers:
+### Business Information
+- Café location and directions.
+- Click-to-call contact link.
+- Instagram profile link.
+- External Swiggy and Zomato links.
+- Responsive navigation and layout.
 
-- Explore food options before visiting
-- Find the café more easily
-- Contact the business directly
-- Access existing delivery platforms
-- Plan a group visit
+## Technologies Used
 
-These are proposed benefits, not measured business results.
+- HTML5 — Page structure and accessible forms.
+- CSS3 — Styling, responsive layouts, and button states.
+- JavaScript — Menu search, category filters, dialogs,
+  form validation, and visit-note generation.
 
-## Project Structure
+## Design
 
-| File or Folder | Purpose |
-|---|---|
-| `index.html` | Website structure and content |
-| `styles.css` | Styling and responsive layouts |
-| `script.js` | Search, filters, navigation, and visit planner |
-| `assets/` | Food illustration and favicon |
-| `PITCH.md` | Short owner pitch and demo walkthrough |
-| `SOURCES.md` | Public business information sources |
-| `ASSETS.md` | Image and design provenance |
+The interface uses a light cream background, warm brown
+text, olive accents, and a golden-yellow “Say hello”
+button for stronger visibility.
 
-## Run Locally
+## How to Explore
 
-1. Download or clone the repository.
-2. Keep all files and the `assets` folder together.
-3. Open `index.html` in your browser.
+1. Open the live project link.
+2. Browse the menu and sample prices.
+3. Search for an item or select a category.
+4. Click “Say hello” and try the demo contact form.
+5. Use fictional details to test form validation.
+6. Open “Plan a catch-up” to generate a visit note.
+7. Explore the location, contact, and delivery links.
 
-No installation or build step is required.
+## Important Demo Information
 
-You can also run a local server:
+- Menu additions and prices are illustrative and have
+  not been confirmed by the café.
+- Food imagery is AI-generated and illustrative.
+- The contact form does not send email or messages.
+- The visit planner does not submit a reservation.
+- Real enquiries must be confirmed directly with the café.
+- Orders and payments on external delivery platforms
+  are handled by those platforms.
 
-```bash
-python -m http.server 8000
-```
+## What I Learned
 
-Then open http://localhost:8000.
+- Creating a responsive website for a local business.
+- Building searchable and filterable menu cards.
+- Designing accessible modal dialogs.
+- Validating form inputs with JavaScript.
+- Improving text readability and button contrast.
+- Distinguishing demo interactions from live services.
+- Publishing a publicly accessible website.
 
-## Publish with GitHub Pages
+## Future Improvements
 
-1. Open the repository’s **Settings**.
-2. Select **Pages**.
-3. Choose **Deploy from a branch**.
-4. Select **main** and **/ (root)**.
-5. Click **Save**.
-6. Open the website link shown after deployment completes.
-
-## Visit Planner
-
-The planner creates a copyable note containing a preferred date, time, and group size.
-
-It does not send a booking or confirm a reservation. Visitors must call the café to confirm availability.
-
-## Project Status
-
-- Website demo and source files created
-- Menu filters and search checked in a browser
-- Visit-note generation checked
-- Desktop layout visually inspected
-- Owner pitch prepared
-- Owner review and live presentation pending
-- Real-phone testing recommended before handoff
-
-## Important Notes
-
-- Business information comes from public listings and needs owner confirmation.
-- Menu prices are not displayed; delivery links provide current pricing and availability.
-- Exact opening hours are omitted because public listings differ.
-- The food image is AI-generated and labelled as illustrative.
-- The wordmark and favicon are proposed designs, not verified business branding.
-- Ordering and payment are handled by external delivery platforms.
-- No backend, email notification system, or online reservation service is included.
-
-Before official launch, confirm the café’s details and replace illustrative imagery with owner-approved photos and branding.
-
-## Business Pitch
-
-See [PITCH.md](PITCH.md) for the short pitch, demonstration steps, and owner review checklist.
-
-The pitch has not been sent to the owner.
+- Add an owner-approved menu and verified prices.
+- Replace illustrative imagery with original café photos.
+- Connect the contact form to an email service.
+- Add a backend for reservation requests.
+- Build an owner dashboard for menu updates.
 
 ## Author
 
-**Akhila**
+**Akhila S**
 
-- GitHub: https://github.com/akhilas094
-- LinkedIn: https://www.linkedin.com/in/akhilas09
+GitHub: https://github.com/akhilas094
+
+LinkedIn: https://www.linkedin.com/in/akhilas09
